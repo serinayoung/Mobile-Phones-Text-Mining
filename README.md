@@ -1,4 +1,4 @@
-# TM Group Assignment 2 — Text Mining on Mobile Phone Reviews
+# Text Mining on Mobile Phone Reviews
 
 Text Mining assignment comparing **Samsung** and **Xiaomi** mobile phone listings scraped from
 Flipkart. The pipeline cleans and merges the two raw datasets, builds a text document per
